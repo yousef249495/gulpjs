@@ -1,0 +1,13 @@
+@import 'sass/header';
+@import 'sass/footer';
+
+
+$border: 1px solid blue;
+
+.class {
+    border: $border;
+
+    font: {
+        size: 20px
+    }
+}

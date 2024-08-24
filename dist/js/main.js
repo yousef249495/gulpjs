@@ -1,0 +1,1 @@
+function bg(){[...document.body.children].forEach(o=>{o.style.backgroundColor="#000",o.style.margin="10px",o.style.padding="10px"})}document.body.style.color="#ccc",bg();
